@@ -1,9 +1,5 @@
 # Oii, Me chamo Daniel
 
-- 🔭 Atualmente trabalho com banco de dados, PL/SQL.
-- 🌱 Estudante de Sistemas de Informação.
-
-
 
 <div>
   <a href="https://github.com/danieloliveiraaa">
