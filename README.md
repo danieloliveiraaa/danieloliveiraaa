@@ -4,7 +4,7 @@
 
 💼 Atualmente trabalhando em projetos com foco em gestão escolar.
 
-⚙️ Tecnologias: C#, .NET, ASP.NET CORE, ASP.NET, Entity Framework, SQL Server, HTML/CSS, JavaScript, Azure DevOps
+⚙️ Tecnologias: C#, .NET, ASP.NET CORE, ASP.NET, Entity Framework, SQL Server, HTML/CSS, JavaScript, Azure DevOps.
 
 <div>
   <a href="https://github.com/danieloliveiraaa">
