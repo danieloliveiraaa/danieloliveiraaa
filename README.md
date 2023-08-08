@@ -4,9 +4,7 @@
 
 💼 Atualmente trabalhando em projetos com foco em gestão escolar.
 
-⚙️ Tecnologias: C#, .NET, ASP.NET CORE, ASP.NET, Entity Framework, SQL Server, HTML/CSS, JavaScript, JQuery
-
-📫 Entre em contato: silvaoliveiradaniel3@gmail.com
+⚙️ Tecnologias: C#, .NET, ASP.NET CORE, ASP.NET, Entity Framework, SQL Server, HTML/CSS, JavaScript, JQuery, Azure DevOps
 
 <div>
   <a href="https://github.com/danieloliveiraaa">
@@ -16,7 +14,6 @@
 <br>
     
 <div style="display: inline_block">
-  <img align="center" alt="java" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
   <img align="center" alt="csharp" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" alt="python" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="html" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -27,5 +24,6 @@
 
 
 <div> 
-  <a href="https://www.linkedin.com/in/daniel-oliveira-3702031b2/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://www.linkedin.com/in/daniel-oliveira-3702031b2/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="silvaoliveiradaniel3@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </div>
