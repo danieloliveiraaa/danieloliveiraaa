@@ -1,10 +1,12 @@
 # 👋 Olá, eu sou Daniel!
 
-👨‍💻 Desenvolvedor .NET | 🌐 Back-End | 📚 Apaixonado por C#
+👨‍💻 Desenvolvedor .NET | 🌐 Back-End | 📚 Fascinado por C#
 
 💼 Atualmente trabalhando em projetos com foco em gestão escolar.
 
 ⚙️ Tecnologias: C#, .NET, ASP.NET CORE, ASP.NET, Entity Framework, SQL Server, HTML/CSS, JavaScript, Azure DevOps.
+
+📫 Entre em contato: silvaoliveiradaniel3@gmail.com
 
 <div>
   <a href="https://github.com/danieloliveiraaa">
@@ -24,5 +26,4 @@
 
 <div> 
   <a href="https://www.linkedin.com/in/daniel-oliveira-3702031b2/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href="silvaoliveiradaniel3@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </div>
