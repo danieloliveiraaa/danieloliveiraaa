@@ -1,6 +1,6 @@
 # 👋 Olá, eu sou Daniel!
 
-👨‍💻 Desenvolvedor .NET | 🌐 Back-End | 📚 Fascinado por C#
+👨‍💻 Desenvolvedor .NET | 📚 C# - EF - .NET CORE - SQL SERVER - JQuery - JavaScript
 
 💼 Atualmente trabalhando em projetos com foco em gestão escolar.
 
