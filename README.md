@@ -14,10 +14,6 @@
   <img height="160em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=danieloliveiraaa&layout=compact&langs_count=7&theme=tokyonight"/>  
 </div>
 <br>
-
-<div>
-  <img height="160em"  src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical"/>
-</div>
     
 <div style="display: inline_block">
   <img align="center" alt="csharp" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
