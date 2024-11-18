@@ -1,19 +1,10 @@
 # 👋 Olá, eu sou Daniel!
 
-👨‍💻 Desenvolvedor .NET | 📚 C# - EF - .NET CORE - SQL SERVER - JQuery - JavaScript
+👨‍💻 Desenvolvedor .NET Pleno | 📚 C# - .NET & .NET CORE - EF - SQL SERVER - JQuery - JavaScript
 
-💼 Atualmente trabalhando em projetos com foco em gestão escolar.
+💼 Minha jornada é focada na análise e desenvolvimento de soluções no ecossistema .NET/.NET CORE, com especialização em back-end.
 
-⚙️ Tecnologias: 
-.NET;
-C#;
-ASP.NET CORE;
-ASP.NET;
-Entity Framework;
-SQL Server;
-HTML/CSS;
-JavaScript;
-Azure DevOps.
+⚙️ Tecnologias: .NET, C#, ASP.NET/CORE, Entity Framework, SQL Server, HTML/CSS, JavaScript, Azure DevOps.
 
 📫 Entre em contato: silvaoliveiradaniel3@gmail.com
 
